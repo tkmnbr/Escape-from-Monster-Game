@@ -1,2 +1,2 @@
-# Escape-from-Monster-Game
-Unity based game
+#Unity baseg simple game
+My first gaming project
